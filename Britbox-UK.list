@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,britbox.com,Britbox
 DOMAIN-SUFFIX,bbc.co.uk,Britbox
 DOMAIN,d2z3p34itxwaj7.cloudfront.net,Britbox
 
-# NAME: BBC
+# > BBC
 HOST,aod-dash-uk-live.akamaized.net,BBC
 HOST,aod-hls-uk-live.akamaized.net,BBC
 HOST,vod-dash-uk-live.akamaized.net,BBC
@@ -36,19 +36,19 @@ HOST-KEYWORD,bbcfmt,BBC
 HOST-KEYWORD,uk-live,BBC
 USER-AGENT,BBCiPlayer*,BBC
 
-# NAME: ITV
+# > ITV
 HOST,itvpnpmobile-a.akamaihd.net,ITV
 HOST-SUFFIX,itv.com,ITV
 HOST-SUFFIX,itvstatic.com,ITV
 USER-AGENT,ITV_Player*,ITV
 
-# NAME: My5
+# > My5
 HOST,d349g9zuie06uo.cloudfront.net,My5
 HOST-SUFFIX,channel5.com,My5
 HOST-SUFFIX,my5.tv,My5
 USER-AGENT,My5*,My5
 
-# NAME: All4
+# > All4
 HOST-SUFFIX,c4assets.com,All4
 HOST-SUFFIX,channel4.com,All4
 USER-AGENT,All4*,All4
