@@ -35,6 +35,12 @@ HOST-SUFFIX,bidi.net.uk,BBC
 HOST-KEYWORD,bbcfmt,BBC
 HOST-KEYWORD,uk-live,BBC
 USER-AGENT,BBCiPlayer*,BBC
+USER-AGENT,BBCiPlayer*,BBC iPlayer
+DOMAIN-KEYWORD,co.uk,BBC iPlayer
+DOMAIN,vod-dash-uk-live.akamaized.net,BBC iPlayer
+DOMAIN,vod-thumb-uk-live.akamaized.net,BBC iPlayer
+DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net,BBC iPlayer
+DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net,BBC iPlayer
 
 # > ITV
 HOST,itvpnpmobile-a.akamaihd.net,ITV
