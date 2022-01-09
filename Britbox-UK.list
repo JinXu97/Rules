@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,bbc.co.uk,Britbox
 DOMAIN,d2z3p34itxwaj7.cloudfront.net,Britbox
 
 # > BBC
+HOST,api.raygun.com,BBC
+HOST,static.bb-static.com,BBC
+HOST,sdk.fra-01.braze.eu,BBC
 HOST,aod-dash-uk-live.akamaized.net,BBC
 HOST,aod-hls-uk-live.akamaized.net,BBC
 HOST,vod-dash-uk-live.akamaized.net,BBC
